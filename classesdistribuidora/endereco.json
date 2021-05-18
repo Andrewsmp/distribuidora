@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "rua": "Rua 1",
+        "numero": "4123",
+        "cidade": "Cidade 1",
+        "estado": "Estado 1",
+        "bairro": "Bairro 1"
+    },
+    {
+        "id": 2,
+        "rua": "Rua 2",
+        "numero": "2341",
+        "cidade": "Cidade 2",
+        "estado": "Estado 2",
+        "bairro": "Bairro 2"
+    }
+]

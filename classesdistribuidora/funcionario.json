@@ -1,0 +1,16 @@
+[
+    {
+        "login": "andrews",
+        "nome": "Andrews",
+        "senha": "123",
+        "id_endereco": 1,
+        "status": "Master"
+    },
+    {
+        "login": "rodrigo",
+        "nome": "Rodrigo",
+        "senha": "321",
+        "id_endereco": 2,
+        "status": "Comum"
+    }
+]

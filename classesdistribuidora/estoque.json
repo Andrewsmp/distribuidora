@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": "BNA1",
+        "nome": "coca-cola",
+        "qtd": 10000
+    },
+    {
+        "codigo": "BAA1",
+        "nome": "skol lata",
+        "qtd": 50000
+    },
+    {
+        "codigo": "BAA2",
+        "nome": "skol beats",
+        "qtd": 100000
+    },
+    {
+        "codigo": "BNA2",
+        "nome": "fanta 2l",
+        "qtd": 9000
+    },
+    {
+        "codigo": "BNA3",
+        "nome": "guaran\u00e1 antartica 2l",
+        "qtd": 25000
+    },
+    {
+        "codigo": "BAA3",
+        "nome": "chivas",
+        "qtd": 5000
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "codigo": "BNA1",
+        "nome": "coca-cola lata",
+        "valor": 3.5,
+        "tipo": "NA"
+    },
+    {
+        "codigo": "BAA1",
+        "nome": "skol lata",
+        "valor": 4.5,
+        "tipo": "AL"
+    },
+    {
+        "codigo": "BAA2",
+        "nome": "skol beats",
+        "valor": 5.2,
+        "tipo": "AL"
+    },
+    {
+        "codigo": "BNA2",
+        "nome": "fanta 2l",
+        "valor": 8.4,
+        "tipo": "NA"
+    },
+    {
+        "codigo": "BNA3",
+        "nome": "guaran\u00e1 antartica 2l",
+        "valor": 9.5,
+        "tipo": "NA"
+    },
+    {
+        "codigo": "BAA3",
+        "nome": "chivas",
+        "valor": 85,
+        "tipo": "AL"
+    }
+]

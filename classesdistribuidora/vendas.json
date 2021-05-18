@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "data": "23/3/2021",
+        "qtd": 1000,
+        "valor": 5200,
+        "cod": "BAA2",
+        "cnpj": "22.222.222/2222-22",
+        "vendedor": "rodrigo"
+    },
+    {
+        "id": 2,
+        "data": "23/3/2021",
+        "qtd": 10000,
+        "valor": 45000,
+        "cod": "BAA1",
+        "cnpj": "66.666.666/6666-66",
+        "vendedor": "andrews"
+    },
+    {
+        "id": 3,
+        "data": "25/3/2021",
+        "qtd": 2500,
+        "valor": 21000,
+        "cod": "BNA2",
+        "cnpj": "33.333.333/3333-33",
+        "vendedor": "rodrigo"
+    },
+    {
+        "id": 4,
+        "data": "10/4/2021",
+        "qtd": 15000,
+        "valor": 52500,
+        "cod": "BNA1",
+        "cnpj": "33.333.333/3333-33",
+        "vendedor": "rodrigo"
+    },
+    {
+        "id": 5,
+        "data": "14/4/2021",
+        "qtd": 525,
+        "valor": 44625,
+        "cod": "BAA3",
+        "cnpj": "44.444.444/4444-44",
+        "vendedor": "andrews"
+    },
+    {
+        "id": 6,
+        "data": "14/4/2021",
+        "qtd": 1200,
+        "valor": 11400,
+        "cod": "BNA3",
+        "cnpj": "44.444.444/4444-44",
+        "vendedor": "rodrigo"
+    }
+    ,
+    {
+        "id": 7,
+        "data": "1/4/2021",
+        "qtd": 4600,
+        "valor": 52900,
+        "cod": "BNA3",
+        "cnpj": "66.666.666/6666-66",
+        "vendedor": "andrews"
+    }
+]
